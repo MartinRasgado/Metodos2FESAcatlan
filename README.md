@@ -5,6 +5,6 @@ Se esta subiendo el paquete final del proyecto de métodos numéricos II, donde 
 #
 Este trabajo fue realizado en equipo por los Licenciados:
 #
-Lic. Rasgado Celaya Julio Martin
-Lic. Hernandez Gonzalez Stephanie
-Lic. Perez Ibarra Alfredo de Jesus
+Lic. Rasgado Celaya Julio Martin#
+Lic. Hernandez Gonzalez Stephanie#
+Lic. Perez Ibarra Alfredo de Jesus#
